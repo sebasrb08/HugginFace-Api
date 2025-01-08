@@ -67,7 +67,7 @@ streamlit run src/app.py
 
 ## Ejemplo de uso:
 
-
+![Captura de pantalla 2025-01-08 155445](https://github.com/user-attachments/assets/fb08152b-b4ba-401e-a5c0-7fbfce3ffb83)
 
 
 # Proyecto 2
