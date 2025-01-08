@@ -128,6 +128,11 @@ HUGGINGFACE_API_KEY`= TU_API_KEY
 streamlit run src/app.py
 ```
 
+## Modelo
+
+**black-forest-labs/FLUX.1-dev**: Para generar la imagen
+**Salesforce/blip-image-captioning-large**: Para describir la imagen generada
+
 ## Diagrama
 ![model](https://github.com/user-attachments/assets/4d935bab-e6c3-4f5a-98d3-b46d411f97f5)
 
