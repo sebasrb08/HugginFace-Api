@@ -2,6 +2,7 @@ from huggingface_hub import InferenceClient
 import os
 from dotenv import load_dotenv
 
+
 load_dotenv()  # Carga el archivo .env
 def apichat(message):
     
