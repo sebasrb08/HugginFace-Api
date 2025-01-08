@@ -1,7 +1,10 @@
 import requests
+import os
+from dotenv import load_dotenv
 
+load_dotenv()  # Carga el archivo .env
 API_URL = "https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-large"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": f"Bearer {os.getenv('HUGGINGFACE_API_KEY')}"}
 
 def query(filename):
     with open(filename, "rb") as f:

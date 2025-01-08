@@ -1,7 +1,11 @@
 from huggingface_hub import InferenceClient
+import os
+from dotenv import load_dotenv
+
+load_dotenv()  # Carga el archivo .env
 def apichat(message):
     
-    client = InferenceClient(api_key="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")
+    client = InferenceClient(api_key=os.getenv("HUGGINGFACE_API_KEY"))
 
     messages = [
         {
