@@ -132,3 +132,5 @@ streamlit run src/app.py
 ![model](https://github.com/user-attachments/assets/4d935bab-e6c3-4f5a-98d3-b46d411f97f5)
 
 ## Ejemplo de uso
+![image](https://github.com/user-attachments/assets/3811ce5e-1501-4269-8362-5085dae9928f)
+
