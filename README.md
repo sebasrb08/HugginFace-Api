@@ -129,6 +129,6 @@ streamlit run src/app.py
 ```
 
 ## Diagrama
-
+![model](https://github.com/user-attachments/assets/4d935bab-e6c3-4f5a-98d3-b46d411f97f5)
 
 ## Ejemplo de uso
