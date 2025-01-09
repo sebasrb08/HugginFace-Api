@@ -1,3 +1,14 @@
+# Modelo en local
+
+
+![image](https://github.com/user-attachments/assets/a3cdc3bd-c259-4446-8829-805703adde16)
+
+![image](https://github.com/user-attachments/assets/98590a7f-e8fc-4a2d-af26-0e5607b505ab)
+
+![image](https://github.com/user-attachments/assets/cca201bb-e3fa-4b7a-866e-a7ee53f36650)
+
+
+
 
 # Proyecto 1
 
@@ -15,7 +26,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado Python y un ento
 
  
 ```
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/sebasrb08/HugginFace-Api.git
 
 cd proyecto1
 ```
